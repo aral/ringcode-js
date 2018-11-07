@@ -98,3 +98,8 @@ div#file-span .file {
 div#file-span a {
     margin-left: 10px;
 }
+
+textarea#data {
+    height: 300px;
+    font-size: 80pt;
+}
